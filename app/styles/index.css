@@ -1,0 +1,6 @@
+@import '@elastic/eui/dist/eui_theme_light.css';
+@import '@fontsource/lato/400.css';
+
+body {
+    font-family: 'Lato', sans-serif;
+}
